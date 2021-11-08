@@ -1,4 +1,4 @@
-## Data analysis notebooks for COMM313 Final Project
+## Data analysis notebooks for COMM318 Group Project
 
 * This folder should contain the a series of Jupyter notebooks you create to do the data analysis.
 
