@@ -1,4 +1,4 @@
-## Data files for COMM313 Final Project
+## Data files for COMM318 Group Project
 
 * This folder should contain the data files you have used in your analysis
 
